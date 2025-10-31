@@ -1,0 +1,5 @@
+env_vertt/
+media/
+__pycache__/
+migrations/
+db.sqlite3
