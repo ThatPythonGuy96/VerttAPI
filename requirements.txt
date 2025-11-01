@@ -8,6 +8,7 @@ djangorestframework_simplejwt==5.5.1
 drf-spectacular==0.28.0
 drf-spectacular-sidecar==2025.8.1
 Faker==37.5.3
+gunicorn==23.0.0
 inflection==0.5.1
 jsonschema==4.25.0
 jsonschema-specifications==2025.4.1
@@ -19,3 +20,4 @@ rpds-py==0.26.0
 sqlparse==0.5.3
 tzdata==2025.2
 uritemplate==4.2.0
+whitenoise==6.9.0
